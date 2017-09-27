@@ -1,9 +1,9 @@
 # example-vue-vuex
 using the vuex of vue.js
 
-inicializar 
-> npm install
+> inicializar 
+npm install
 
-start application
-> npm run dev
+> start application
+npm run dev
 
